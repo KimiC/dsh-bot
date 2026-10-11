@@ -71,4 +71,4 @@ overrides:
   #
   # 所以可以用一个本地空实现顶替，代价只是不做服务端图片缩放。
   # 若你网络正常，可删掉这行让它装真实 sharp。
-  sharp: file:C:\Users\Administrator\.dsh\local-stubs\sharp
+  sharp: file:d:\dsh\local-stubs\sharp
